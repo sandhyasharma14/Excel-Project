@@ -23,7 +23,7 @@ Key Insights at a Glance 📊
 
 ## Dashborad 
 - <a href-"https://github.com/sandhyasharma14/Excel-Project/blob/main/Screenshot%202026-09-26%20175258.png">Dashboard</a>
-![dashboard](https://github.com/sandhyasharma14/Excel-Project/blob/main/Screenshot%202026-09-26%20175258.png)
+![dashboard](- <a href-"https://github.com/sandhyasharma14/Excel-Project/blob/main/Screenshot%202026-09-26%20175258.png">Dashboard</a>)
 
 Telecom Customer Churn Analysis
 
@@ -45,7 +45,7 @@ Key dashboard observations:
 Looking for a custom dashbord? let's connect!
 
 <img width="1771" height="782" alt="dashboard" src="https://github.com/user-attachments/assets/3d077d89-f77d-4250-a4a7-9ca26b3c0cb5" />
-<img width="1771" height="782" alt="Screenshot 2026-09-26 175258" src="https://github.com/user-attachments/assets/c80f94b4-5720-4531-9d03-a651100c867b" />
+
 
 
           
