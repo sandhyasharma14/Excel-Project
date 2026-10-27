@@ -4,7 +4,7 @@ Telecom Customer Churn Dashboard
 I'm exicted to share my latest excel Telecom Customer Churn Dashboard,designed for real time performance tracking and analysis.
 
 ## Dataset Used
-- <a href-"https://github.com/sandhyasharma14/Excel-Project/blob/main/Telecom-Customer-Churn-Dataset1.xlsx">Dataset</a>
+https://github.com/sandhyasharma14/Excel-Project/blob/main/Telecom-Customer-Churn-Dataset1.xlsx
 
 Dataset view
 Key Insights at a Glance 📊
