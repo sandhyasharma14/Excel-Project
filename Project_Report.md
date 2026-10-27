@@ -24,7 +24,7 @@ Key Insights at a Glance 📊
 ## Dashborad 
 - <a href-"https://github.com/sandhyasharma14/Excel-Project/blob/main/dashboard.png">Dashboard</a>
 - <a href-"https://github.com/sandhyasharma14/Excel-Project/blob/main/dashboard.png">dashborad</a>
-Dashboard view
+  "C:\Users\Sandhya\OneDrive\Pictures\Screenshot 2026-09-26 175258.png"
 
 Telecom Customer Churn Analysis
 
